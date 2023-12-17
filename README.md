@@ -25,6 +25,8 @@
   }
   //Listado de codigos para uso de github
   const more_codes = "https://bluuweb.github.io/desarrollo-web-bluuweb/07-02-github/#ignorando-archivos"
+  const configuracion_git="https://dev.to/shafia/support-for-password-authentication-was-removed-please-use-a-personal-access-token-instead-4nbk"
+
 ```
 
 ## Notas

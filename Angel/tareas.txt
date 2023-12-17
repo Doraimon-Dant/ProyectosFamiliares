@@ -1,1 +1,1 @@
-1. programa un separador de textos donde tu le ingreses una frase y la separe en palabras y las revuelva.
+1. programa un separador de textos donde tu le ingreses una frase y la separe en palabras y las revuelva. 18/12/2023
